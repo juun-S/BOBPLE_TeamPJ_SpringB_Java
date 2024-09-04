@@ -50,20 +50,20 @@
     │   ├── ...
     │   ├── LikeRecipeController.java
     │   ├── RecipeCommentController.java
-    │   └── RecipeController.java
+    │   └── RecipeController.java 등 레시피 관련 컨트롤러
     ├── dto
     │   ├── ...
-    │   └── RecipeDto.java
+    │   └── RecipeDto.java 등 레시피 관련 DTO
     ├── entity
     │   ├── ...
-    │   └── Recipe.java
+    │   └── Recipe.java 등 레시피 관련 엔티티
     ├── repository
     │   ├── ...
-    │   └── RecipeRepository.java
+    │   └── RecipeRepository.java 등 레시피 관련 레포지토리
     └── service
         ├── ...
         ├── HyperCLOVAClient.java
-        └── RecipeService.java
+        └── RecipeService.java 등 레시피 관련 서비스
 ```
 
 ## 핵심 기술 설명
