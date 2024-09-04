@@ -13,6 +13,10 @@
 * **나만의 레시피 공유**: 자신만의 특별한 레시피를 등록하고, 다른 사용자들과 댓글로 소통하며 요리의 즐거움을 나누세요. 💬
 * **편리한 사용성**: 반응형 디자인으로 PC, 태블릿, 모바일 어디서든 편리하게 밥플을 이용할 수 있습니다. 📱
 
+## 프로젝트소개 PPT
+
+https://www.canva.com/design/DAGOd9x9olI/TdxsjBoguAzGUuwSUy7Igg/view?utm_content=DAGOd9x9olI&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## 기술 스택
 
 * **프론트엔드**: React, React Router, Axios, Context API, LocalStorage
