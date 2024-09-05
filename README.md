@@ -25,7 +25,7 @@
 
 ## 프로젝트 구조
 
-```mermaid
+```
 밥플
 ├── frontend
 │   ├── components
@@ -70,7 +70,8 @@
         └── RecipeService.java 등 레시피 관련 서비스
 ```
 
-```flowchart TD
+```mermaid
+flowchart TD
     classDef defaultFont font-family: sans-serif ,font-weight:bold,font-size:20px;
     classDef defaultNode fill:#fff,stroke:#000,stroke-width:1px,color:#000 ,font-weight:bold,font-size:16px;
     classDef subgraphTitle color:#fff,font-weight:bold,font-size:18px;
