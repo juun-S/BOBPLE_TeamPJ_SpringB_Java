@@ -15,8 +15,8 @@
 
 ## 프로젝트소개 PPT
 
-https://www.canva.com/design/DAGOd9x9olI/TdxsjBoguAzGUuwSUy7Igg/view?utm_content=DAGOd9x9olI&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
+[https://www.canva.com/design/DAGOd9x9olI/TdxsjBoguAzGUuwSUy7Igg/view?utm_content=DAGOd9x9olI&utm_campaign=designshare&utm_medium=link&utm_source=editor
+](https://www.canva.com/design/DAGO39M5cug/GZswv0GTmSk_QwyPXvInRg/view?utm_content=DAGO39M5cug&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ## 기술 스택
 
 * **프론트엔드**: React, React Router, Axios, Context API, LocalStorage
