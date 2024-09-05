@@ -1,8 +1,10 @@
 # 밥플(Bobple) 레시피 플랫폼 서비스 [본인기여 부분]
 
-![스크린샷 2024-08-22 195000](https://github.com/user-attachments/assets/e67c1a87-4cbb-4b9c-b9f4-1025e68bdd53)
-![스크린샷 2024-08-22 170452](https://github.com/user-attachments/assets/acf633c3-7338-4c76-b148-1d5fa25a4e25)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e67c1a87-4cbb-4b9c-b9f4-1025e68bdd53" alt="스크린샷 2024-08-22 195000" width="350">
 
+<img src="https://github.com/user-attachments/assets/acf633c3-7338-4c76-b148-1d5fa25a4e25" alt="스크린샷 2024-08-22 170452" width="319">
+</div>
 **AI와 함께하는 맛있는 레시피 탐험**
 
 밥플은 AI 기술을 활용하여 사용자에게 개인 맞춤형 레시피를 추천하고, 다양한 검색 및 필터링 기능을 통해 원하는 레시피를 쉽고 빠르게 찾을 수 있도록 돕는 레시피 플랫폼 서비스입니다. 또한, 사용자들은 밥플에서 자신만의 레시피를 공유하고, 댓글 기능을 통해 다른 사용자들과 활발하게 소통하며 요리에 대한 즐거움을 함께 나눌 수 있습니다. 
