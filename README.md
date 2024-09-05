@@ -25,7 +25,7 @@
 
 ## 프로젝트 구조
 
-```
+```mermaid
 밥플
 ├── frontend
 │   ├── components
