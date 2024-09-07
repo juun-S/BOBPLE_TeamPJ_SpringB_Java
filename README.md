@@ -31,11 +31,21 @@
 ## 기술 스택
 
 * **프론트 엔드💻**
-- <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/> <img src="https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> <img src='https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=%2361DAFB'/> <img src="https://img.shields.io/badge/Context%20API-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Context API"> <img src="https://img.shields.io/badge/LocalStorage-%2320232a.svg?style=for-the-badge&logo=storage&logoColor=%2361DAFB" alt="LocalStorage"/>
+ 
+</br>
+
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/> <img src="https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> <img src='https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=%2361DAFB'/> <img src="https://img.shields.io/badge/Context%20API-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Context API"> <img src="https://img.shields.io/badge/LocalStorage-%2320232a.svg?style=for-the-badge&logo=storage&logoColor=%2361DAFB" alt="LocalStorage"/>
 * **벡 엔드🎛️**
-- <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"> <img src='https://img.shields.io/badge/JPA-blue?style=for-the-badge&logo=java&logoColor=white' alt='JPA'/> <img src='https://img.shields.io/badge/RESTful%20API-%2300BBFF.svg?style=for-the-badge&logo=api&logoColor=white' alt="RESTful API"/> <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3"/> <img src="https://img.shields.io/badge/Naver%20HyperCLOVA%20X-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" alt="Naver HyperCLOVA X"/>
+
+</br>
+
+<img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"> <img src='https://img.shields.io/badge/JPA-blue?style=for-the-badge&logo=java&logoColor=white' alt='JPA'/> <img src='https://img.shields.io/badge/RESTful%20API-%2300BBFF.svg?style=for-the-badge&logo=api&logoColor=white' alt="RESTful API"/> <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3"/> <img src="https://img.shields.io/badge/Naver%20HyperCLOVA%20X-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" alt="Naver HyperCLOVA X"/>
 * **외부 서비스 🌐**
-- <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3 (Image Storage)"/> <img src="https://img.shields.io/badge/Naver%20HyperCLOVA%20X-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" alt="Naver HyperCLOVA X (AI Recipe Recommendation)"/>
+
+</br>
+  
+<img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3 (Image Storage)"/> <img src="https://img.shields.io/badge/Naver%20HyperCLOVA%20X-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" alt="Naver HyperCLOVA X (AI Recipe Recommendation)"/>
+
 ## 프로젝트 구조
 
 ```
