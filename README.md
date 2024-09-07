@@ -1,4 +1,8 @@
 # 밥플(Bobple)의 레시피 플랫폼 서비스 [본인기여 부분]
+<a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuun-S%2FBOBPLE_TeamPJ_SpringB_Java&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hit Counter for BOBPLE_TeamPJ_SpringB_Java"/>
+</a>
+
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e67c1a87-4cbb-4b9c-b9f4-1025e68bdd53" alt="스크린샷 2024-08-22 195000" width="350">
