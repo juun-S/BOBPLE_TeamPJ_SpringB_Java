@@ -38,7 +38,14 @@ jobs:
           blackducksca_token: ${{ secrets.BLACKDUCKSCA_TOKEN }}
           blackducksca_prcomment_enabled: true
           blackducksca_fixpr_enabled: true
-          blackducksca_waitForScan: true
+          detect_args: |
+            --detect.blackduck.scan.mode=RAPID
+            --detect.excluded.detector.types=GIT
+            --detect.project.name=BOBPLE_TeamPJ_SpringB_Java_yejun
+            --detect.project.version.name=No.70
+            --blackduck.trust.cert=true
+            --detect.accuracy.required=NONE
+            --detect.timeout=5000
 
           ### ---------- COVERITY SCANNING: REQUIRED FIELDS ----------
           coverity_url: ${{ vars.COVERITY_URL }}
