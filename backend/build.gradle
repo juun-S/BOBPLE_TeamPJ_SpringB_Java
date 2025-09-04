@@ -76,6 +76,9 @@ dependencies {
 
     implementation 'org.jsoup:jsoup:1.15.3'
 
+    // 공급망 보안 테스트를 위한 취약한 의존성 (Log4Shell - CVE-2021-44228)
+    implementation 'org.apache.logging.log4j:log4j-core:2.14.1'
+
 }
 
 // 테스트 설정 (JUnit 5 사용)
