@@ -25,8 +25,8 @@ jobs:
           blackducksca_prComment_enabled: true
           github_token: ${{ secrets.GH_TOKEN }}
           blackducksca_fixpr_enabled: true
-          blackducksca_reports_sarif_create: false
-          blackducksca_upload_sarif_report: false
+          blackducksca_reports_sarif_create: true
+          blackducksca_upload_sarif_report: true
           detect_args: |
             --detect.blackduck.scan.mode=RAPID
             --detect.excluded.detector.types=GIT
