@@ -38,6 +38,7 @@ jobs:
           blackducksca_token: ${{ secrets.BLACKDUCKSCA_TOKEN }}
           blackducksca_prcomment_enabled: true
           blackducksca_fixpr_enabled: true
+          github_token: ${{ secrets.GH_TOKEN }}
           detect_args: |
             --detect.blackduck.scan.mode=RAPID
             --detect.excluded.detector.types=GIT
