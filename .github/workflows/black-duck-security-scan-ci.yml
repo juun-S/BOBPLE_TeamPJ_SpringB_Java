@@ -36,6 +36,9 @@ jobs:
           ### ---------- BLACKDUCK SCA SCANNING: REQUIRED FIELDS ----------
           blackducksca_url: ${{ vars.BLACKDUCKSCA_URL }}
           blackducksca_token: ${{ secrets.BLACKDUCKSCA_TOKEN }}
+          blackducksca_prcomment_enabled: true
+          blackducksca_fixpr_enabled: true
+          blackducksca_waitForScan: true
 
           ### ---------- COVERITY SCANNING: REQUIRED FIELDS ----------
           coverity_url: ${{ vars.COVERITY_URL }}
